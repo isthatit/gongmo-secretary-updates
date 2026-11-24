@@ -1,4 +1,4 @@
 {
- "manifest": "{\n \"format\": 1,\n \"version\": \"1.0.25\",\n \"url\": \"https://github.com/isthatit/gongmo-secretary-updates/releases/download/v1.0.25/gongmo-1.0.25.gsupdate\",\n \"size\": 2224346,\n \"sha256\": \"e75a06f66a4a3d9f8b2f30a0252fac23a16abaf5d0e9312127533b593fb00322\",\n \"notes\": \"공모주 비서 1.0.25 새 버전이에요. 자세한 변경 내용은 업데이트한 뒤 앱에서 알려 드려요.\",\n \"created\": \"2026-11-22T15:21:07\"\n}",
- "sig": "RxwvIG8yDTChhvItE2s1uaQmTNz3Gtn7HBPKfp2K2cT31g5QOAMQtt+UFcJPOUmn62JpZNPxLovDhhc4fUYYBg=="
+ "manifest": "{\n \"format\": 1,\n \"version\": \"1.0.26\",\n \"url\": \"https://github.com/isthatit/gongmo-secretary-updates/releases/download/v1.0.26/gongmo-1.0.26.gsupdate\",\n \"size\": 2226070,\n \"sha256\": \"381a8ccccbf6331101aac3af68a3af0271c8896f4a325820a7d403959d600453\",\n \"notes\": \"공모주 비서 1.0.26 새 버전이에요. 자세한 변경 내용은 업데이트한 뒤 앱에서 알려 드려요.\",\n \"created\": \"2026-11-24T11:39:32\"\n}",
+ "sig": "I2Hy5bOYDSlKjHa7XM/tQL2md+CYcwDjVXnzhvOHzsyg+bWS+3MO+pCsUEyRqO/pW7Na/5Krx0G2/7SB8v0NCQ=="
 }
